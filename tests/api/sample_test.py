@@ -1,6 +1,7 @@
 import random
 import string
 import json
+import pytest
 from tools.api_caller import ApiCaller
 
 class TestSample:
