@@ -1,6 +1,7 @@
+# Generating simple json for registration purpose
 class JsonGenerator():
 
-    def create_json(email, name, password):
+    def get_json(email, name, password):
         json = {
             "email": email,
             "name": name,
