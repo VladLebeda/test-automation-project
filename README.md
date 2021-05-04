@@ -1,4 +1,5 @@
 test-automation-project WIP
+
 Covering public api http://users.bugred.ru/ with UI and API autotests. Python, Selenium, Pytest.
 
 Currenly implemented and working 6 API tests and 2 UI tests.
