@@ -1,1 +1,3 @@
-# test-automation-projectJust some trivial project for skills practice. Python + pytest + selenium (maybe  selenoid, jenkins and allure, not sure yet). Api + ui autotests.
+# test-automation-project
+Covering public api http://users.bugred.ru/ with UI and API autotests. Python, Selenium, Pytests. Some CI and Allure later.
+
